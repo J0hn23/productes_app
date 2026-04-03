@@ -1,0 +1,14 @@
+{
+  "asd456": {
+    "available": false,
+    "name": "RTX 3090",
+    "picture": "https://cdn.videocardz.com/1/2022/03/Colorful-RTX3090Ti-VULCAN-1.jpg",
+    "price": 2999
+  },
+  "qwe123": {
+    "available": true,
+    "name": "PC Gamer",
+    "picture": "https://m.media-amazon.com/images/I/61uowQuR70L._AC_SS450_.jpg",
+    "price": 499
+  }
+}
